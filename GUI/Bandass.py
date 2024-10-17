@@ -12,7 +12,7 @@ import pickle
 
 ################################
 # Main app structure
-st.set_page_config(page_title="Bandaas", layout="wide", page_icon= r"GUI/images/accident-car.png")
+st.set_page_config(page_title="Bandaas", layout="wide", page_icon= r"https://github.com/ahmedyasser7/accidents_app/blob/main/GUI/images/two_cars.png")
 
 @st.cache_resource
 def load_image(image_path):
