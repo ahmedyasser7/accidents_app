@@ -12,7 +12,7 @@ import pickle
 
 ################################
 # Main app structure
-st.set_page_config(page_title="Emergency insights", layout="wide", page_icon= r"GUI\images\siren.png")
+st.set_page_config(page_title="Emergency insights", layout="wide", page_icon= r"GUI/images/siren.png")
 ################################
 # Emergency assitance sub-pages:
 
